@@ -19,29 +19,28 @@ This is a project repository for our group project for our Financial Data Analyt
 ### Phase II: Analysis & Visualization (Week 12 & 13)
 1. Data Acquisition: Use a library to fetch your chosen data into a Pandas DataFrame.
 2. Data Cleaning & Wrangling:
-- Inspect the data for missing values (NaN) and decide on a strategy to handle them (e.g., fill, drop).
-- Ensure data types are correct (e.g., dates are datetime objects).
-- Create new columns as needed for your analysis (e.g., daily returns, moving averages).
+  - Inspect the data for missing values (NaN) and decide on a strategy to handle them (e.g., fill, drop).
+  - Ensure data types are correct (e.g., dates are datetime objects).
+  - Create new columns as needed for your analysis (e.g., daily returns, moving averages).
 3. Descriptive Statistical Analysis:
-- Use Pandas and NumPy to calculate key summary statistics (e.g., mean, median, standard deviation, variance, correlation).
-- For time-series data, consider calculations like rolling averages, volatility, or beta.
-- Use groupby() to aggregate data and uncover insights (e.g., average returns by year or by
-company).
+  - Use Pandas and NumPy to calculate key summary statistics (e.g., mean, median, standard deviation, variance, correlation).
+  - For time-series data, consider calculations like rolling averages, volatility, or beta.
+  - Use groupby() to aggregate data and uncover insights (e.g., average returns by year or by company).
 4. Data Visualization:
-- Create at least three distinct and meaningful visualizations that help answer your research questions.
-- Each plot must be clearly labeled with a title, axis labels, and a legend if necessary.
-- Choose the right type of plot for your data (e.g., line plot for time-series, histogram for distribution, scatter plot for correlation).
+  - Create at least three distinct and meaningful visualizations that help answer your research questions.
+  - Each plot must be clearly labeled with a title, axis labels, and a legend if necessary.
+  - Choose the right type of plot for your data (e.g., line plot for time-series, histogram for distribution, scatter plot for correlation).
 
 ### Phase III: Presentation & Reporting
 - Length: Maximum 20 minutes, followed by 5 minutes for Q&A.
 - Format: A professional slide deck.
 - Content:
-1. Introduction: Introduce your group, dataset, and research questions.
-2. Methodology: Briefly explain your data cleaning and analysis process.
-3. Analysis & Findings: Present your key statistical findings.
-4. Visualizations: Showcase your plots and explain what insights they reveal.
-5. Conclusion: Summarize your findings and answer your initial research questions. What are the key takeaways?
-6. Challenges & Future Work: Briefly discuss any challenges you faced and how you might extend this analysis
+  1. Introduction: Introduce your group, dataset, and research questions.
+  2. Methodology: Briefly explain your data cleaning and analysis process.
+  3. Analysis & Findings: Present your key statistical findings.
+  4. Visualizations: Showcase your plots and explain what insights they reveal.
+  5. Conclusion: Summarize your findings and answer your initial research questions. What are the key takeaways?
+  6. Challenges & Future Work: Briefly discuss any challenges you faced and how you might extend this analysis
 
 ---
 
